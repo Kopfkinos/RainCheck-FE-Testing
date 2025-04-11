@@ -10,7 +10,6 @@ export default function Index() {
       }}
     >
       <Text>Deedee (❤️) and Steph's (💋) playground!</Text>
-      <Text>Connor and Lee's emporium!</Text>
     </View>
   )
 }
